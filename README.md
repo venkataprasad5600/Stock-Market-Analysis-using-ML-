@@ -49,8 +49,6 @@ NumPy: For numerical computations.
 Matplotlib & Seaborn: For data visualization.
 Scikit-learn: For machine learning algorithms (clustering).
 
-# 📊 Insights 
-
 # 🚀 Future Work
 Incorporate time-series analysis for stock price prediction.
 Include sentiment analysis on news articles for stock market trends.
