@@ -1,10 +1,10 @@
-# Stock Market Analysis Using Machine Learning
+# 🚀 Stock Market Analysis Using Machine Learning
 
 # Overview
 This project, titled "Stock Market Analysis using ML", is undertaken for Trade&Ahead, a financial consultancy firm. The objective is to analyze stock market data, group stocks based on financial indicators, and provide actionable insights into the characteristics of each group.
 By leveraging machine learning techniques, the analysis aids in personalizing investment strategies for the firm’s customers.
 
-# Problem Statement
+# 🎯 Problem Statement
 Trade&Ahead has provided data comprising stock prices and various financial indicators of companies listed under the New York Stock Exchange (NYSE).
 The task involves:
 Analyzing the provided stock market data.
@@ -41,7 +41,7 @@ Identify common patterns in each cluster (e.g., high-growth, stable, undervalued
 Provide actionable insights to assist Trade&Ahead in recommending personalized investment strategies.
 Step 5: Create interactive visualizations using Matplotlib, Seaborn, or Plotly.
 
-# Technologies Used :
+# 💻 Technologies Used :
 Programming Language: Python
 Libraries and Frameworks:
 Pandas: For data manipulation and analysis.
